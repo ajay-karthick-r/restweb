@@ -730,13 +730,14 @@ footer {
     padding: 10px 0;
     font-size: 0.9em;
 }
-
+```
 
 ## OUTPUT:
-![alt text](Screenshot 2025-10-08 175922.png)
-![alt text](Screenshot 2025-10-08 175941.png)
-![alt text](Screenshot 2025-10-08 175956.png)
-![alt text](Screenshot 2025-10-08 180011.png)
+![alt text](<Screenshot 2025-10-08 175922.png>)
+![alt text](<Screenshot 2025-10-08 175941.png>)
+![alt text](<Screenshot 2025-10-08 175956.png>)
+![alt text](<Screenshot 2025-10-08 180011.png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
